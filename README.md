@@ -9,7 +9,6 @@
 - ✅ **动态密钥解析** - 根据 token 中的 issuer 自动选择对应的公钥进行验证
 - ✅ **Minimal API** - 使用现代 ASP.NET Core Minimal API 架构
 - ✅ **OpenAPI 文档** - 集成 Scalar UI 提供美观的交互式 API 文档
-- ✅ **企业级结构** - 清晰的代码组织和完整的错误处理
 
 ## 🏗️ 技术栈
 
